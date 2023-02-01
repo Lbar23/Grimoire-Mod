@@ -1,0 +1,3 @@
+displayName = The Grimoire Mod
+author = Cosmic
+version = 0.1

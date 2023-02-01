@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VapS2HJUFb9ioHQ6djZuM/NEJXh9XrSWun8mQD8mmA4yjA00DkaoyLL0PZ7Le43RxnMUXmR9CZ0mUZC4S2dYRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lbj12\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Grimoire\\Grimoire.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lbj12\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

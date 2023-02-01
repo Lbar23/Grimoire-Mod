@@ -1,0 +1,46 @@
+﻿Mods:{
+	Grimoire:{
+		ItemName:{
+			Novice:"Novive Grimoire"
+			Copper:"Copper Grimoire"
+			Tin:"Tin Grimoire"
+			Galaxy:"Galaxy Grimoire"
+			Thorn:"Thorn Grimoire"
+			Vulcan:"Vulcan's Grimoire"
+			Trapper:"Trapper's Grimoire"
+			Demonite:"Corrupted Grimoire"
+			Crimson:"Crimson Grimoire"
+			Iron:"Iron Grimoire"
+			Lead:"Lead Grimoire"
+			Skeletron:"Skeletron's Grimoire"
+			Buzzkill:"Buzzkill"
+			Silver:"Silver Grimoire"
+			Tungsten:"Tungsten Grimoire"
+			Gold:"Gold Grimoire"
+			Platinum:"Platinum Grimoire"
+		
+		}
+
+		ProjectileName:{
+			CopperProjectile:"Copper Projectile"
+			TinProjectile:"Tin Projectile"
+			GalaxyProjectile:"Galaxy Projectile"
+			ThornProjectile:"Thorn Projectile"
+			TrapperProjectile:"Trapper Projectile"
+			DemoniteProjectile:"Corrupted Projectile"
+			CrimsonProjectile:"Crimson Projectile"
+			IronProjectile:"Iron Projectile"
+			LeadProjectile:"Lead Projectile"
+			SkeletronProjectile:"Skeletron Projectile"
+			BeeProjectile:"Buzzkill Projectile"
+			SilverProjectile:"Silver Projectile"
+			TungstenProjectile:"Tungsten Projectile"
+			GoldProjectile:"Gold Projectile"
+			PlatinumProjectile"Platinum Projectile"
+		
+		}
+	
+	
+	}
+
+}
